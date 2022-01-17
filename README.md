@@ -1,1 +1,1 @@
-Here are some Terraform scripts I have worked on in my home lab. I have used localstack as a cloud service emulator.
+Here are some Terraform scripts I have worked on in my home lab. I have used localstack, an open source project, as a cloud service emulator. More details about Localstack found here: https://github.com/localstack/localstack
