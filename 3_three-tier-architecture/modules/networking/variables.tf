@@ -1,3 +1,3 @@
-/* variable "project" {
+variable "project" {
     type = string
-} */
+} 
